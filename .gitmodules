@@ -1,0 +1,24 @@
+[submodule "mypage/themes/ananke"]
+	path = mypage/themes/ananke
+	url = https://github.com/theNewDynamic/gohugo-theme-ananke
+[submodule "mypage/themes/hugo-book"]
+	path = mypage/themes/hugo-book
+	url = https://github.com/alex-shpak/hugo-book
+[submodule "mypage/themes/toha"]
+	path = mypage/themes/toha
+	url = https://github.com/hugo-toha/toha.git
+[submodule "mypage/themes/mainroad"]
+	path = mypage/themes/mainroad
+	url = https://github.com/vimux/mainroad.git
+[submodule "mypage/themes/cayman-hugo-theme"]
+	path = mypage/themes/cayman-hugo-theme
+	url = https://github.com/zwbetz-gh/cayman-hugo-theme.git
+[submodule "mypage/themes/hugo-theme-itheme"]
+	path = mypage/themes/hugo-theme-itheme
+	url = https://github.com/floyd-li/hugo-theme-itheme.git
+[submodule "mypage/themes/hulga"]
+	path = mypage/themes/hulga
+	url = https://github.com/wlh320/hugo-theme-hulga.git
+[submodule "mypage/themes/pulp"]
+	path = mypage/themes/pulp
+	url = https://github.com/koirand/pulp.git
